@@ -1,5 +1,5 @@
 # 💫 About Me:
-Nahian Al Sams | CS Student @ NSU  
+Nahian Al Sams | CSE Student @ NSU  
 Web Developer | Project Creator | Lifelong Learner  
 Building, coding, and freelancing my way forward
 
